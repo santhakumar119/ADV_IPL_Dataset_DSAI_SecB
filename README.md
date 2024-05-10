@@ -30,7 +30,6 @@
 ![Slide14](https://github.com/santhakumar119/ADV_IPL_Dataset_DSAI_SecB/assets/56394116/440645e7-283f-472d-accd-a97012c46d77)
 ![Slide15](https://github.com/santhakumar119/ADV_IPL_Dataset_DSAI_SecB/assets/56394116/bf00ac85-b27a-46ac-8379-92224274b587)
 ![Slide16](https://github.com/santhakumar119/ADV_IPL_Dataset_DSAI_SecB/assets/56394116/85e1bf90-1203-4789-bc3d-a27e9720108b)
-![Slide17](https://github.com/santhakumar119/ADV_IPL_Dataset_DSAI_SecB/assets/56394116/43b169c0-a825-42b9-bd8b-a39faebf83ee)
 
 
 
